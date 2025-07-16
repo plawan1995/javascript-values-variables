@@ -3,8 +3,9 @@
 let firstName = "karter"; 
 let lastName = "Anderson";
 let address = "54/24 Gp 5 Bangkruay-Sainoi Bang Kruay Bang Kruai";
-let restaurantInfo = "Chef's Table by Chef James";
-let netFoodPrice = 15000;
+const restaurantInfo = "Chef's Table by Chef James";
+const netFoodPrice = 15000;
+const openRestaurantsCount = 1500;
 
 //Exercise #2: Variable Reassignment
 //Start coding here
